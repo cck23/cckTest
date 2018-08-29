@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Table1" max_length="40" name="x_53373_cck_table1" type="collection">
+        <element label="Field 1" max_length="200" name="field_1" type="string"/>
+    </element>
+</database>
