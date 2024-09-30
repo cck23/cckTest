@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element label="Table1" max_length="40" name="x_53373_cck_table1" type="collection">
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="500c9410c3491210d9837addd4013199" label="Table1" max_length="40" name="x_53373_cck_table1" type="collection">
         <element label="Field 1" max_length="200" name="field_1" type="string"/>
+        <element label="Field2" max_length="40" name="field2" type="string"/>
     </element>
 </database>
